@@ -8,7 +8,7 @@
       "answer": 4
     },
     {
-      "question": "Which of the following are types of data repositories?",
+      "question": "Which of the following ia NOT a type of data repositories?",
       "choice1": "Data warehouse",
       "choice2": "Data shed",
       "choice3": "Data mart",
@@ -24,7 +24,7 @@
       "answer": 3
     },
 	{
-      "question": "What should you consider when choosing a data centre for your research project?",
+      "question": "What should you NOT consider when choosing a data centre for your research project?",
       "choice1": "Specialisation",
       "choice2": "Reliability and security",
       "choice3": "Flexibility and scalability",
@@ -32,7 +32,7 @@
       "answer": 4
     },
     {
-      "question": "What you must do before depositing your data in a data centre?",
+      "question": "What is NOT required from you before you deposit your data in a data centre?",
       "choice1": "Publish findings",
       "choice2": "Read and understand guidelines",
       "choice3": "Validate data",
